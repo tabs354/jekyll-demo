@@ -1,0 +1,2 @@
+CREATE DATABASE `jekyll_demo` CHARACTER SET utf8mb4;
+CREATE DATABASE `jekyll_demo_test` CHARACTER SET utf8mb4;
