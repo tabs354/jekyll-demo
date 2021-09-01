@@ -10,7 +10,13 @@ gem 'sqlite3'
 # Use Puma as the app server
 gem 'puma', '~> 3.11'
 # Use SCSS for stylesheets
+gem 'kaminari'
+gem 'jquery-rails'
+gem 'bootstrap-sass', '~> 3.4.1'
 gem 'sass-rails', '~> 5.0'
+gem 'rails-controller-testing'
+gem 'faker', :git => 'https://github.com/stympy/faker.git', :branch => 'master'
+gem 'bcrypt'
 # Use Uglifier as compressor for JavaScript assets
 gem 'uglifier', '>= 1.3.0'
 # See https://github.com/rails/execjs#readme for more supported runtimes
